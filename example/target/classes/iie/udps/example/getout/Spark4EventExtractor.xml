@@ -1,0 +1,4 @@
+<operator name="java_example_operator" alias="javaExample" class="GM.I.JavaCountByAge">
+	<parameter name="parse_type">7</parameter>
+	<parameter name="outputTableName">xdf.test_out</parameter>
+</operator>
